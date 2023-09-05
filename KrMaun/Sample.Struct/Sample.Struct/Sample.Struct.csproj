@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="JonSkeet.MiscUtil" Version="*" />
+    <PackageReference Include="System.Memory" Version="*" />
+  </ItemGroup>
+</Project>
